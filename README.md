@@ -93,8 +93,8 @@
       
   ## stash
   
-    u have done some changes and now u want to pull code, but u don't want to remove ur changes before taking pull and write again after taking pull
-    so, in this case u can stash ur file
+    u have done some changes and now u want to pull code, but u don't want to remove ur changes before taking pull and write again 
+    after taking pull so, in this case u can stash ur file
     
     git stash -> command temporarily stores all the modified tracked files.
 
