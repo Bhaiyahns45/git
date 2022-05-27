@@ -46,6 +46,14 @@
     git checkout -b [branch name] -> creates a new branch and also switches to it.
   
     git merge [branch name]-> merges the specified branch’s history into the current branch
+    
+## swicth b/w branch
+
+    git checkout branchname
+    
+    or 
+    
+    git checkout branchname
   
   
 ## commit info
