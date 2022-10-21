@@ -61,6 +61,8 @@
     
     git log -p -n -> to see last n commit
     
+    git commit --amend -m "New commit message"
+    
     
   ## diff
     git diff -> shows the file differences which are not yet staged.
