@@ -47,13 +47,13 @@
   
     git merge [branch name]-> merges the specified branch’s history into the current branch
     
-## swicth b/w branch
+## swicth b/w branch or to go to specific commit with in a branch
 
     git checkout branchname
     
     or 
     
-    git checkout branchname
+    git checkout commit_id
   
   
 ## commit info
