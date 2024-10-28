@@ -27,6 +27,15 @@
     git commit -m “commit message”
     
     git commit -a -m "message" -> skip staging area and commit all file
+
+    Steps to change the last commit message:
+    
+    git commit --amend -m "New commit message"
+
+    git push --force
+
+    Only use git push --force if you're sure no one else has pulled your changes.
+
   
  ## pull
     git pull 'remote_name' 'branch_name'
